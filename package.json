@@ -1,0 +1,29 @@
+{
+  "name": "initial-ussd-banking-domo",
+  "version": "1.0.0",
+  "description": "USSD banking demo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Massoda/initial-ussd-banking-domo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/J-Massoda/initial-ussd-banking-domo/issues"
+    
+  },
+  
+  "scriptss": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js"
+  },
+
+  "homepage": "https://github.com/J-Massoda/initial-ussd-banking-domo#readme"
+
+}
